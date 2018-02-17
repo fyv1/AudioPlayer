@@ -1,4 +1,4 @@
-package pl.fyv.audioplayer;
+package main.java.pl.fyv.audioplayer;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
